@@ -1,0 +1,86 @@
+[
+    {
+        "name": "White acacia honey",
+        "size": "0.2",
+        "price": 120.0,
+        "type": "honey"
+    },
+    {
+        "name": "White acacia honey",
+        "size": "0.5",
+        "price": 240.0,
+        "type": "honey"
+    },
+    {
+        "name": "White acacia honey",
+        "size": "1.0",
+        "price": 470.0,
+        "type": "honey"
+    },
+    {
+        "name": "Flower honey",
+        "size": "0.2",
+        "price": 120.0,
+        "type": "honey"
+    },
+    {
+        "name": "Flower honey",
+        "size": "0.5",
+        "price": 240.0,
+        "type": "honey"
+    },
+    {
+        "name": "Flower honey",
+        "size": "1.0",
+        "price": 470.0,
+        "type": "honey"
+    },
+    {
+        "name": "Forest honey",
+        "size": "0.2",
+        "price": 120.0,
+        "type": "honey"
+    },
+    {
+        "name": "Forest honey",
+        "size": "0.5",
+        "price": 240.0,
+        "type": "honey"
+    },
+    {
+        "name": "Forest honey",
+        "size": "1.0",
+        "price": 470.0,
+        "type": "honey"
+    },
+    {
+        "name": "Bee pollen",
+        "size": "0.2",
+        "price": 95.0,
+        "type": "pollen&perga"
+    },
+    {
+        "name": "Bee pollen",
+        "size": "0.48",
+        "price": 190.0,
+        "type": "pollen&perga"
+    },
+    {
+        "name": "Bee pollen \"Bear\"",
+        "size": "0.295",
+        "price": 270.0,
+        "type": "pollen&perga"
+    },
+    {
+        "name": "Perga",
+        "size": "0.2",
+        "price": 240.0,
+        "type": "pollen&perga"
+    },
+    {
+        "name": "Perga",
+        "size": "0.5",
+        "price": 240.0,
+        "type": "pollen&perga"
+    }
+]
